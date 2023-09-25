@@ -19,10 +19,14 @@ and location data.
 4. Run `npm install -g expo-cli` to install the necessary dependencies.
 3. Run `npx create-expo-app Chat-App --template`
 4. Run `npx expo install`
-5. Run `npx expo start`
+5. Run `npm install firebase`
+6. Run `npx expo start`
 
 ## Technologies Used
 
 - React Native
+- React Native Gifted Chat Library
 - Expo
 - Node.js
+- Google Firestore DB
+- Google Firebase Authentication
