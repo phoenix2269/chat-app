@@ -52,7 +52,7 @@ const CustomActions = ({ wrapperStyle, iconTextStyle, onSend, storage, userID })
         }
     };
 
-    const takeImage = async () => {
+    const takePhoto = async () => {
         let permissions = await ImagePicker.requestCameraPermissionsAsync();
         if (permissions?.granted) {
             let result = await ImagePicker.launchCameraAsync();
