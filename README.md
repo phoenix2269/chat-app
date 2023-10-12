@@ -22,6 +22,10 @@ and location data.
 - Google Firebase Cloud Storage (for storing images)
 - Expo ImagePicker & MediaLibrary
 
+## Setting up your Environment
+- To use this application, use the Expo app in iOS or use an Android emmulator. Make sure to have the Expo CLI installed.
+- You'll also need to create an account with Expo. If testing on an Android simulator, use Android Studio.
+
 ## Installation
 
 1.  Clone the repository.
